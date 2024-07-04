@@ -1,0 +1,5 @@
+July 4th meeting plan for next week:
+  - Let us try to create a simple optimization model to maximize Sharpe Ratio of the portfolio (of 10 specific stocks) then we can develop from that
+  - yfinance: https://github.com/ranaroussi/yfinance
+  - alpha vantage: https://github.com/RomelTorres/alpha_vantage
+  - FNSPID: https://huggingface.co/datasets/Zihan1004/FNSPID
