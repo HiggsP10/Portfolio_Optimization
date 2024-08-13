@@ -3,3 +3,13 @@ July 4th meeting plan for next week:
   - yfinance: https://github.com/ranaroussi/yfinance
   - alpha vantage: https://github.com/RomelTorres/alpha_vantage
   - FNSPID: https://huggingface.co/datasets/Zihan1004/FNSPID
+
+
+To-do list on Aug 9th for meeting on Aug 13 at 3 pm EST:
+
+- Stochastic predictive model (predicting stock price and variance following the Black-Litterman/B paper)
+- Make a list of features and assemble datasets (company performance, economic indicators, historical data like prices and volume, twitter-news)
+- Make a list of targets and assemble datasets (returns, stock prices, volatility)
+- Select a model for prediction (diffusion model)
+- Select a model to identify trend and seasonality so that detrended series can be fed into the diffusion model
+- 
