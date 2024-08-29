@@ -14,7 +14,7 @@ The visulization of the correlation matrix
 ![image](https://github.com/user-attachments/assets/561ff6d0-ee4e-46aa-8451-d05ac68e70f3)
 
 ## Modeling Approach
-- The Black-Litterman model with sentiment analysis [ref](https://link.springer.com/article/10.1007/s00521-022-07403-1)
+- The Black-Litterman model with sentiment analysis [ref](https://link.springer.com/article/10.1007/s00521-022-07403-1) 'notebooks/'
 - Long-Short-Term-Memories Network
 - Markowitz Mean-Variance Model
 - Genetic Algorithm 
