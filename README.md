@@ -24,3 +24,5 @@ The visulization of the correlation matrix
 - Markowitz Mean-Variance Model: notebooks/MeanVariance.ipynb
 - Genetic Algorithm: notebooks/GeneticAlgorithm.ipynb
 
+## Stakeholders 
+Individual Investors, Institutional Investors, Portfolio Managers and Financial Advisors, Fund Managers, Regulators and Compliance Officers, Shareholders, etc.
